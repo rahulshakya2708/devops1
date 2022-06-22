@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Institute for SAP MM MODULE LEARNING (affiliated bt UPTU)</h1>
+    <h1>Institute for SAP MM MODULE LEARNING (affiliated bt AKTU)</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
